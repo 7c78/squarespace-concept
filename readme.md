@@ -8,7 +8,7 @@ This is a prototype of a page builder. It allows users to
 
   ![editor](img/editor.png)
 
-* Rearrange elements using drag and drop within page structure
+* Rearrange elements using drag and drop within the page structure
 
   ![structure](img/structure.png)
 
