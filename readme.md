@@ -2,7 +2,7 @@
 
 Live demo: https://7c78.github.io/squarespace-concept/
 
-This a prototype of a page builder. It allows users to
+This is a prototype of a page builder. It allows users to
 
 * Edit text directly on the page
 
